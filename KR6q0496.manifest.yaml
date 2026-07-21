@@ -21,12 +21,12 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0496_000.yaml, hash: 'sha256:7818ec2183eee282e5f03df780ea440a87695b699232ef45ccc00627d720f71b'}
+  - {seq: 0, filename: KR6q0496_000.yaml, hash: 'sha256:ecc627f44fafc357bea2eef79adec6f6c949bfb363893cad9d8d182364d1102a'}
   - {seq: 1, filename: KR6q0496_001.yaml, hash: 'sha256:1708579ca78014f0ee8913ba406b89ca1c7fa6ce3e94a7e4dbdf07c383599c43'}
   - {seq: 2, filename: KR6q0496_002.yaml, hash: 'sha256:84b0c07764d5771f9c59cf1bcf3b30f7991f0fc9e8e625ad97fc43e7c41f5445'}
   - {seq: 3, filename: KR6q0496_003.yaml, hash: 'sha256:ba1d2b4a931298e908a7e21bb35e59df11790a5bcc268707402c2ca7e9381b8a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0496_000.markers.yaml, hash: 'sha256:3ac508e6213170cbdb08e03d26d61bf1c81df669da049b66e1bf9591187aca07'}
+  - {seq: 0, role: markers, filename: assets/KR6q0496_000.markers.yaml, hash: 'sha256:c8ed395de9426d11c9d62bc172df176f3474601c9bc4ead795b309ebe6ab125d'}
   - {seq: 1, role: markers, filename: assets/KR6q0496_001.markers.yaml, hash: 'sha256:b063a8fa27dc435184226062e72ce5090a2d0310cdd9531a81ce2d3e79b67291'}
   - {seq: 2, role: markers, filename: assets/KR6q0496_002.markers.yaml, hash: 'sha256:cbe58d843db4687f3865250e11171eced1a14966e1e2cac5144583b0f8e57992'}
   - {seq: 3, role: markers, filename: assets/KR6q0496_003.markers.yaml, hash: 'sha256:416338e7afe309c5d94128ecc5f3c748725cdb598b19b03946d0c2838c2221db'}
@@ -35,7 +35,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0496_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0496_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 劉餘霖序
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0496_J_000-mulu-3
     span:
-    - front
+    - body
     - 243
     - 243
   label: 方叔壯序
@@ -65,7 +65,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0496_J_000-mulu-4
     span:
-    - front
+    - body
     - 710
     - 710
   label: 目錄
@@ -1861,7 +1861,7 @@ table_of_contents:
   label: 行繇
   type: mulu
   level: 1
-hash: sha256:582b5dd348ccf517f2f068dc3acdfba90db809a749bd7fe4dddcec71170e58db
+hash: sha256:4c119b1d555115498c31b7aadc44ec1bf4f294da61c6b8bb2b0d9b7ae14578c0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

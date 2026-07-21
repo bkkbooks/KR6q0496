@@ -19,12 +19,12 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0496_000-J.yaml, hash: 'sha256:767c6bbf17b602737a74900017938f500c65d93ddd11a69c9ca1c7ebceae190f'}
+  - {seq: 0, filename: KR6q0496_000-J.yaml, hash: 'sha256:66404ef638daa4e90fd29d4086fdda3adf8856548a54c45db2e92dad3824fe27'}
   - {seq: 1, filename: KR6q0496_001-J.yaml, hash: 'sha256:c20d4f9fc8a172e772a80ebf3ed195246744b60ccb1a57e25306d12e06eec0b1'}
   - {seq: 2, filename: KR6q0496_002-J.yaml, hash: 'sha256:0db0ba7e344f311e8c4ab3fd2d5439be186c54ee1234bf1926e0e1f5f6b888ab'}
   - {seq: 3, filename: KR6q0496_003-J.yaml, hash: 'sha256:515ee8e28ea68f431ee6c563430bbac41e424e386baf3e78791b0e6ee2109b0a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0496_000-J.markers.yaml, hash: 'sha256:b016ca2e9a841333bf393e11804905cc217f00c21f0ae99fcac31d69f56d48dc'}
+  - {seq: 0, role: markers, filename: assets/KR6q0496_000-J.markers.yaml, hash: 'sha256:5e0b7388e94918bc76fd1f91c6c64e01153eaefd0e7226b222176f31a24a5bae'}
   - {seq: 1, role: markers, filename: assets/KR6q0496_001-J.markers.yaml, hash: 'sha256:a553d562b23393dc344cd151c916210d24f665b6668910713e23978da1483b56'}
   - {seq: 2, role: markers, filename: assets/KR6q0496_002-J.markers.yaml, hash: 'sha256:3586c8daae2e812b6427017961bceda7119ea94d4b417947f3fa3fef3040b029'}
   - {seq: 3, role: markers, filename: assets/KR6q0496_003-J.markers.yaml, hash: 'sha256:c0f9f51ed895bf4b3291fd3fbd5b25719a75ab7f89417ff849e1659d5beae245'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0496_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0496_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 劉餘霖序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0496_J_000-mulu-3
     span:
-    - front
+    - body
     - 243
     - 243
   label: 方叔壯序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0496_J_000-mulu-4
     span:
-    - front
+    - body
     - 710
     - 710
   label: 目錄
@@ -1859,4 +1859,4 @@ table_of_contents:
   label: 行繇
   type: mulu
   level: 1
-hash: sha256:d378b34e8568c3d2dac070139b7936c6f98637096217bae503024d472a1293b2
+hash: sha256:ca59e229103b4da64acd474502fbd334ab354419ef95edbd1bb16189ffc50f2f
